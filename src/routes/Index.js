@@ -107,7 +107,6 @@ router.post("/send_email", async (req, res) => {
                 from: "Kriptotech <kriptotech2022@gmail.com>",
                 to: [
                     "fazbemfrancisco6@gmail.com",
-                    "eufrasiojoao00@gmail.com",
                     "floatterinvestiment@gmail.com",
                 ],
                 subject:
